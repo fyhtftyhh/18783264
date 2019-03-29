@@ -1,0 +1,23 @@
+<p>Terminos asociados a git</p>
+
+
+<ol>
+<li>Control de versiones (VC): Gestion de cambios sobre los proyecto. https://es.wikipedia.org/wiki/Control_de_versiones</li>
+<li>Control de versiones distribuido (DVC): Control de versiones en el que el codigo es copiado en cada computadora del desarrollador. https://en.wikipedia.org/wiki/Distributed_version_control</li>
+<li>Repositorio remoto y repositorio local: Versiones de un proyecto almacedos en el internet (remoto) o en un dispositivo especifico. https://git-scm.com/book/es/v1/Fundamentos-de-Git-Trabajando-con-repositorios-remotos (local)</li>
+<li>Copia de trabajo/Working Copy: Copia de un proyecto que se puede modificar y probar sin alterar el original. http://dictionary.university/working%20copy</li>
+<li>Area de preparacion/Staging Area: Archivo que almacena informacion de lo que va a ir en la proxima confirmacion (Commit). https://git-scm.com/book/es/v1/Empezando-Fundamentos-de-Git</li>
+<li>Preparar Cambios/Stage Changes: Informar a git sobre los cambios a un proyecto, pero sin hacerlos permanentes. https://githowto.com/staging_changes</li>
+<li>Confirmar cambios/Commit changes: Hacer que los cambios sean permanentes. https://en.wikipedia.org/wiki/Commit_(data_management)</li>
+<li>Commit: Permite guardar cambios a un repositorio. https://git-scm.com/docs/git-commit</li>
+<li>clone: Se usa para clonar un repositorio en un directorio. https://git-scm.com/docs/git-clone</li>
+<li>pull: Se usa para obtener de otro repositorio o rama local e integrar con estas</li>
+<li>push: Sube contenido de un repositorio local a uno remoto. https://www.atlassian.com/git/tutorials/syncing/git-push</li>
+<li>fetch: Descarga contenido de un repositorio remoto a uno local. https://www.atlassian.com/git/tutorials/syncing/git-fetch</li>
+<li>merge: Reune distintas ramas de desarrollo en una sola. https://www.atlassian.com/git/tutorials/using-branches/git-merge</li>
+<li>status: Muestra el estado de un direcotio o un area de preparacion. https://www.atlassian.com/git/tutorials/inspecting-a-repository</li>
+<li>log: Mostrar vitacora del commit. https://git-scm.com/docs/git-log</li>
+<li>checkout: Sirve para cambiar entre versiones. https://www.atlassian.com/git/tutorials/using-branches/git-checkout</li>
+<li>Rama/Branch: Secciones del contenido separada de otras partes del proyecto. https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell</li>
+<li>Etiqueta/Tag: Permite marcar hitos importantes en la historia del proyecto. https://git-scm.com/book/en/v2/Git-Basics-Tagging</li>
+</ol>
